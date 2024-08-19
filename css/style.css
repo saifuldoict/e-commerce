@@ -268,9 +268,9 @@ form select{
     border-radius: 5px;
 }
 .google{
-    color: black;
-    border: 2px solid darkgray;
-    padding: 10px 20px;
+    width: 100px;
+    height: 20px;
+    
     margin: 0px 30px;
 }
 a{
